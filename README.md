@@ -1,2 +1,5 @@
 # Edgy-Prints
-T-shirt Website, including Shopping cart and Log in
+T-shirt Website, including Shopping Cart and Log in
+Java Script
+CSS
+HTML
