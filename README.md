@@ -1,5 +1,2 @@
 # Edgy-Prints
-T-shirt Website, including Shopping Cart and Log in.
-Java Script
-,CSS
-,HTML
+T-shirt Merchandise Website, including Shopping Cart and Log in. PHP, Java Script, CSS and HTML.
